@@ -1,0 +1,6 @@
+
+1. Its essential to execute queries given in above text files.
+
+2.	the database name used is "tkf".
+
+3. user have to input values in admin table to gain all access rights(delete or many more).

@@ -1,0 +1,2 @@
+INSERT INTO `admin`(`id`, `ad_username`, `ad_password`) VALUES ('1','adtkf','ad@tkf');
+

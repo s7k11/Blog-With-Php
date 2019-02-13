@@ -1,0 +1,5 @@
+CREATE TABLE `creation` (
+  `id` int(11) NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  `heading` varchar(255) NOT NULL,
+  `file` varchar(100) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
